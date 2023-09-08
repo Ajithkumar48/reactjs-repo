@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
       <Header src={keyConceptsImage}></Header>
-     <Concepts items={concepts}></Concepts>
+      <Concepts items={concepts}></Concepts>
     </div>
   );
 }

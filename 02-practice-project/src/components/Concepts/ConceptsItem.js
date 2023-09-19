@@ -1,3 +1,5 @@
+//import "../Experiment/css/base.css";
+
 import Card from "../UI/Card";
 
 function Concepts({image, title, desc}) {
